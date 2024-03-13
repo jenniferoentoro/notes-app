@@ -1,0 +1,6 @@
+framework module Pods_C14200152_UAS {
+  umbrella header "Pods-C14200152_UAS-umbrella.h"
+
+  export *
+  module * { export * }
+}
